@@ -1,1 +1,1 @@
-alert('Trabajo practico de Juan Manuel Llanos')
+alert('Trabajo practico de Juan Manuel Llanos');
